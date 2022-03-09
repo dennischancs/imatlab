@@ -1,3 +1,5 @@
+## CJK character display CORRECTLY now! 2022-3-9
+
 A Jupyter kernel for MATLAB
 ===========================
 
